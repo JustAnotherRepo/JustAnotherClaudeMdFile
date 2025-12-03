@@ -3,7 +3,7 @@
 ## Instructions 
 1. Put in root of repo
 
-2. Uppdate `replace with` sections with your config (short is better and saves tokens
+2. Update `replace with` sections with your config (concise and clear is better and saves tokens)
 
 3. Prompt Claude with either of the two options whichever works best
 
