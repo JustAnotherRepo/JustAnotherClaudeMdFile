@@ -8,7 +8,7 @@
 3. Prompt Claude with either of the two options whichever works best
 
 ```text
-Using the method outline in CLAUDE.md, `insert your instructions normally`
+Using the method outlined in CLAUDE.md, `insert your instructions normally`
 ```
 
 ```text
