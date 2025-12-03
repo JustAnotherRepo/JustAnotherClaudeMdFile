@@ -44,16 +44,16 @@ Example:
 ### Commands
 
 ```bash
-(place with commands)                          #(replace with descriptions)
+(Replace with commands)                          #(Replace with descriptions)
 ```
 
 ### DB
 
-(Replace with Database Type): `(replace data types or tables)`,`(replace data types or tables)`
+(Replace with Database Type): `(Replace with data types or tables)`,`(Replace with data types or tables)`
 
 ### Config
 
-`(Replace with config file)` (replace withdescription/options/notes)
+`(Replace with config file)` (Replace with description/options/notes)
 
 ### Performance
 
@@ -64,7 +64,7 @@ Example:
 ### Debug
 
 ```bash
-(place with commands)                          #(replace with descriptions)
+(Replace with commands)                          #(Replace with descriptions)
 ```
 
 **For non-trivial tasks: Think 100 → pick best → state: selection (%), runner-up (%), what changes it.**
