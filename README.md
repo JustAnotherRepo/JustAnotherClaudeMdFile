@@ -7,9 +7,13 @@
 
 3. Prompt Claude with either of the two options whichever works best
 
-  a. Using the method outline in CLAUDE.md, `insert your instructions normally`
+```text
+a. Using the method outline in CLAUDE.md, `insert your instructions normally`
+```
 
-  b. Following the OVERRIDE in CLAUDE.md, `insert your instructions normally`
+```text
+b. Following the OVERRIDE in CLAUDE.md, `insert your instructions normally`
+```
 
 ### If Claude stops providing an expected output from the method, immediately ask why it didn't or other method of calling out the agent.
 
