@@ -38,7 +38,7 @@ Example:
 ### Structure
 
 ```
-(Replace with folder structure
+(Replace with folder structure)
 ```
 
 ### Commands
