@@ -22,9 +22,10 @@ Activate the skill
 Identifies complexity and scale based on trigger
 You can use these triggers if you want to ensure a particular path
 
-|Company Size/Complexity|Triggers|
-| small| ["internal tool","prototype", "simple", "quick", "basic", "just need"|
-| enterprise| "HIPAA", "PCI", "SOC2", "platform", "multi-team", "regulated"|
+| Company Size or Complexity | Triggers |
+|----|----|
+| small | internal tool, prototype, simple, quick, basic, just need |
+| enterprise | HIPAA, PCI, SOC2, platform, multi-team, regulated |
 
 Path by complexity
 | Level | Signals | Discovery Depth | Output Size |
