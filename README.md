@@ -7,6 +7,9 @@
 
 ### Installation Instructions
 Enable skills in Claude Web or Desktop
+Use the official instructions for the most up to date instructions:
+https://support.claude.com/en/articles/12512180-using-skills-in-claude
+
 > under settings > capabilities
 > enable code and document execution
 > navigate to the skills section
